@@ -1,0 +1,23 @@
+# Project exclude paths
+/.idea
+/target/
+/.classpath
+/.project
+.project
+/.settings
+/bin/
+.DS_Store
+target
+.classpath
+.settings
+.idea/
+.externalToolBuilders/
+/.externalToolBuilders
+.springBeans
+/.springBeans
+*.iml
+*.iws
+classes/
+out/
+logs/
+

@@ -50,5 +50,8 @@ public class TongSort {
         for (Integer integer : list) {
             System.out.println(integer);
         }
+
+        HashMap<String,Integer> map = new HashMap<>(16);
+        map.put("key",map.getOrDefault("key",0) + 1);
     }
 }

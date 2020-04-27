@@ -1,4 +1,4 @@
-package leetcode._01_shuangzhizhen;
+package leetcode.other._01_shuangzhizhen;
 
 /**
  * @ClassName ListNode

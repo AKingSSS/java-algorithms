@@ -1,4 +1,4 @@
-package leetcode._02_paixu;
+package leetcode.other._02_paixu;
 
 import java.util.ArrayList;
 import java.util.HashMap;

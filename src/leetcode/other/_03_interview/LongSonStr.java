@@ -1,4 +1,4 @@
-package leetcode._03_interview;
+package leetcode.other._03_interview;
 
 /**
  * @ClassName LongSonStr

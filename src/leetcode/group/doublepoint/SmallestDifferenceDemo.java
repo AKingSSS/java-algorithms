@@ -1,4 +1,4 @@
-package leetcode.doublepoint;
+package leetcode.group.doublepoint;
 
 import java.util.Arrays;
 

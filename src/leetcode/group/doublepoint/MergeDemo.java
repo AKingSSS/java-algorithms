@@ -1,7 +1,4 @@
-package leetcode.doublepoint;
-
-import javax.swing.*;
-import java.util.jar.JarEntry;
+package leetcode.group.doublepoint;
 
 /**
  * @ClassName MergeDemo

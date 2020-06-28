@@ -1,6 +1,4 @@
-package leetcode.doublepoint;
-
-import java.util.List;
+package leetcode.group.doublepoint;
 
 /**
  * @ClassName KthToLastDemo
